@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Alleria Baby Tracking
+        Alleria Baby Tracking - Testing
       </header>
     </div>
   );
