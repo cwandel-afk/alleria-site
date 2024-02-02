@@ -48,7 +48,7 @@ function App() {
       </Grid>
       <Divider paddingTop={10} paddingBottom={10} borderColor={tokens.colors.background.tertiary} size='large' width="85vw" />
       <Heading level={3}>Get Started!</Heading>
-      <Button variation='primary'>Download</Button>
+      <Button variation='primary' >Download</Button>
     </Flex>
   );
 }
