@@ -7,9 +7,6 @@ import '@aws-amplify/ui-react/styles/base.layer.css' // base styling needed for 
 import '@aws-amplify/ui-react/styles/button.layer.css' // component specific styles */
 import '@aws-amplify/ui-react/styles.css';
 import information_page from './components/information';
-import about_page from './components/about';
-import download_page from './components/download';
-import BadRequest from './BadRequest';
 
 function App() {
   const { tokens } = useTheme();
